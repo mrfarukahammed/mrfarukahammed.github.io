@@ -75,7 +75,10 @@ main {
     display: block;
     margin: 0 auto;
 }
-
+.business-image {
+    max-width: 300px;
+    width: 100%
+    height: auto;
 /* Text Styling */
 p {
     font-size: 16px;
